@@ -285,15 +285,15 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-slate-100 text-slate-900 transition-colors dark:bg-slate-950 dark:text-slate-100">
-      <div className="mx-auto flex min-h-screen w-full max-w-md flex-col pb-[112px] lg:max-w-screen-xl lg:px-6">
-        <header className="sticky top-0 z-30 border-b border-white/10 bg-slate-100/85 px-4 pb-4 pt-5 backdrop-blur-xl dark:bg-slate-950/85">
+      <div className="mx-auto flex min-h-screen w-full max-w-full flex-col pb-[calc(env(safe-area-inset-bottom)+180px)] lg:max-w-screen-xl lg:px-6">
+        <header className="sticky top-0 z-30 border-b border-white/10 bg-slate-100/85 px-4 pb-3 pt-4 backdrop-blur-xl dark:bg-slate-950/85">
           <div className="flex items-start justify-between gap-3">
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.28em] text-emerald-600 dark:text-emerald-300">
                 MedPost
               </p>
-              <h1 className="mt-1 text-2xl font-bold">Islamic Post Generator</h1>
-              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
+              <h1 className="mt-1 text-2xl font-bold hidden sm:block">Islamic Post Generator</h1>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400 hidden sm:block">
                 Generate fast, mobile-ready ayah and hadith posts.
               </p>
             </div>
@@ -317,7 +317,7 @@ export default function App() {
           </div>
         </header>
 
-        <main className="flex-1 px-4 pb-6 pt-4">
+        <main className="flex-1 px-3 pb-6 pt-3">
           {error && (
             <div className="mb-4 rounded-3xl border border-rose-200 bg-rose-50 px-4 py-3 text-sm text-rose-700 dark:border-rose-500/30 dark:bg-rose-500/10 dark:text-rose-200">
               {error}
@@ -330,28 +330,28 @@ export default function App() {
                 <section className="grid grid-cols-2 gap-3">
                   <button
                     onClick={generateRandom}
-                    className="col-span-2 flex h-14 items-center justify-center gap-2 rounded-2xl bg-emerald-500 px-4 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 active:scale-[0.99]"
+                    className="col-span-2 flex h-12 items-center justify-center gap-2 rounded-2xl bg-emerald-500 px-4 text-sm font-semibold text-white shadow-lg shadow-emerald-500/25 active:scale-[0.99] sm:h-14 sm:text-base"
                   >
                     <Sparkles size={18} />
                     Generate Random
                   </button>
                   <button
                     onClick={generateBatch}
-                    className="flex h-12 items-center justify-center gap-2 rounded-2xl border border-slate-200 bg-white text-sm font-semibold shadow-sm dark:border-slate-800 dark:bg-slate-900"
+                    className="flex h-10 items-center justify-center gap-2 rounded-2xl border border-slate-200 bg-white text-sm font-semibold shadow-sm dark:border-slate-800 dark:bg-slate-900"
                   >
                     <LayoutGrid size={18} />
                     Generate 5 Posts
                   </button>
                   <button
                     onClick={handleCopyCaption}
-                    className="flex h-12 items-center justify-center gap-2 rounded-2xl border border-slate-200 bg-white text-sm font-semibold shadow-sm dark:border-slate-800 dark:bg-slate-900"
+                    className="flex h-10 items-center justify-center gap-2 rounded-2xl border border-slate-200 bg-white text-sm font-semibold shadow-sm dark:border-slate-800 dark:bg-slate-900"
                   >
                     {copied ? <Check size={18} /> : <Copy size={18} />}
                     {copied ? 'Copied' : 'Copy Caption'}
                   </button>
                 </section>
 
-                <section className="rounded-[28px] bg-white p-4 shadow-sm ring-1 ring-slate-200/70 dark:bg-slate-900 dark:ring-slate-800">
+                <section className="rounded-[28px] bg-white p-3 shadow-sm ring-1 ring-slate-200/70 dark:bg-slate-900 dark:ring-slate-800">
                   <div className="flex items-center justify-between">
                     <div>
                       <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500 dark:text-slate-400">
@@ -681,7 +681,7 @@ export default function App() {
         </main>
 
         {currentItem && (
-          <div className="pointer-events-none fixed inset-x-0 bottom-[88px] z-40 mx-auto w-full max-w-md px-4 lg:max-w-screen-xl lg:px-6">
+          <div className="pointer-events-none fixed inset-x-0 bottom-[calc(env(safe-area-inset-bottom)+88px)] z-40 mx-auto w-full max-w-full px-4 lg:max-w-screen-xl lg:px-6">
             <div className="pointer-events-auto rounded-[28px] bg-white/92 p-3 shadow-[0_22px_60px_-24px_rgba(15,23,42,0.55)] ring-1 ring-black/5 backdrop-blur-xl dark:bg-slate-900/92 dark:ring-white/10">
               <div className="grid grid-cols-2 gap-3 lg:max-w-3xl lg:mx-auto">
                 <button
@@ -704,7 +704,7 @@ export default function App() {
           </div>
         )}
 
-        <nav className="fixed inset-x-0 bottom-0 z-50 mx-auto flex w-full max-w-md gap-2 border-t border-white/10 bg-white/92 px-4 pb-6 pt-3 backdrop-blur-xl dark:bg-slate-950/94 lg:max-w-screen-xl lg:px-6">
+        <nav className="fixed inset-x-0 bottom-0 z-50 mx-auto flex w-full max-w-full gap-2 border-t border-white/10 bg-white/92 px-4 pb-[calc(env(safe-area-inset-bottom)+18px)] pt-3 backdrop-blur-xl dark:bg-slate-950/94 lg:max-w-screen-xl lg:px-6">
           {TABS.map((tab) => {
             const Icon = tab.icon;
             const active = activeTab === tab.id;

@@ -50,7 +50,7 @@ export default function PreviewCard({
       className={joinClasses(
         'group relative isolate overflow-hidden rounded-[28px] border border-white/20 shadow-[0_24px_70px_-26px_rgba(15,23,42,0.6)]',
         'transition-all duration-300',
-        isStory ? 'aspect-[9/16] w-full max-w-[360px]' : 'aspect-square w-full max-w-[360px]',
+        isStory ? 'aspect-[9/16] w-full max-w-[320px] sm:max-w-[360px]' : 'aspect-square w-full max-w-[320px] sm:max-w-[360px]',
         compact ? 'rounded-[24px]' : ''
       )}
       style={{
@@ -75,9 +75,9 @@ export default function PreviewCard({
 
       <div
         className={joinClasses(
-          'relative z-10 flex h-full flex-col gap-5 p-5 sm:p-6',
+          'relative z-10 flex h-full flex-col gap-4 p-4 sm:p-6',
           layoutClasses[layout],
-          layout === 'glow' && !isStory ? 'pt-9' : '',
+          layout === 'glow' && !isStory ? 'pt-8' : '',
           isStory ? 'justify-center' : ''
         )}
       >
@@ -98,7 +98,7 @@ export default function PreviewCard({
               className={joinClasses(
                 'leading-[1.9] tracking-[0.01em] text-center',
                 fonts.arabic,
-                compact ? 'text-[1.55rem]' : isStory ? 'text-[1.95rem]' : 'text-[1.8rem]'
+                compact ? 'text-[1.35rem]' : isStory ? 'text-[1.75rem] sm:text-[1.95rem]' : 'text-[1.75rem]'
               )}
             >
               {item.ar}
@@ -110,7 +110,7 @@ export default function PreviewCard({
               className={joinClasses(
                 'leading-relaxed text-current/90 text-center',
                 fonts.latin,
-                compact ? 'text-[0.84rem]' : isStory ? 'text-[1.05rem]' : 'text-[0.98rem]'
+                compact ? 'text-[0.8rem]' : isStory ? 'text-[0.95rem] sm:text-[1.05rem]' : 'text-[0.95rem]'
               )}
             >
               {copy}
