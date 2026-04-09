@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "a1",
+    "type": "ayah",
+    "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "en": "Indeed, with hardship comes ease.",
+    "fr": "Avec la difficulté vient certes la facilité.",
+    "ref": "Quran 94:6",
+    "topic": "ayah-1"
+  },
+  {
+    "id": "a2",
+    "type": "ayah",
+    "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "en": "Surely in the remembrance of Allah do hearts find rest.",
+    "fr": "C’est par l’évocation d’Allah que les cœurs se tranquillisent.",
+    "ref": "Quran 13:28",
+    "topic": "ayah-2"
+  },
+  {
+    "id": "a3",
+    "type": "ayah",
+    "ar": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "en": "Call upon Me, and I will respond to you.",
+    "fr": "Invoquez-Moi, Je vous répondrai.",
+    "ref": "Quran 40:60",
+    "topic": "ayah-3"
+  },
+  {
+    "id": "a4",
+    "type": "ayah",
+    "ar": "رَبِّ زِدْنِي عِلْمًا",
+    "en": "My Lord, increase me in knowledge.",
+    "fr": "Seigneur, accrois-moi en science.",
+    "ref": "Quran 20:114",
+    "topic": "ayah-4"
+  },
+  {
+    "id": "a5",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "en": "Indeed, Allah is with the patient.",
+    "fr": "Allah est avec les patients.",
+    "ref": "Quran 2:153",
+    "topic": "ayah-5"
+  },
+  {
+    "id": "a6",
+    "type": "ayah",
+    "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+    "en": "Your Lord will surely give you, and you will be pleased.",
+    "fr": "Ton Seigneur te donnera et tu seras satisfait.",
+    "ref": "Quran 93:5",
+    "topic": "ayah-6"
+  },
+  {
+    "id": "a7",
+    "type": "ayah",
+    "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "en": "Remember Me; I will remember you.",
+    "fr": "Souvenez-vous de Moi, Je Me souviendrai de vous.",
+    "ref": "Quran 2:152",
+    "topic": "ayah-7"
+  },
+  {
+    "id": "a8",
+    "type": "ayah",
+    "ar": "وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+    "en": "Allah is the best of providers.",
+    "fr": "Allah est le Meilleur des pourvoyeurs.",
+    "ref": "Quran 62:11",
+    "topic": "ayah-8"
+  },
+  {
+    "id": "a9",
+    "type": "ayah",
+    "ar": "وَاللَّهُ غَفُورٌ رَحِيمٌ",
+    "en": "Allah is All-Forgiving, Most Merciful.",
+    "fr": "Allah est Pardonneur et Miséricordieux.",
+    "ref": "Quran 3:31",
+    "topic": "ayah-9"
+  },
+  {
+    "id": "a10",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "en": "Indeed, Allah loves those who rely upon Him.",
+    "fr": "Allah aime ceux qui placent leur confiance en Lui.",
+    "ref": "Quran 3:159",
+    "topic": "ayah-10"
+  },
+  {
+    "id": "a11",
+    "type": "ayah",
+    "ar": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+    "en": "Be patient, and your patience is only through Allah.",
+    "fr": "Sois patient, ta patience n’est que par Allah.",
+    "ref": "Quran 16:127",
+    "topic": "ayah-11"
+  },
+  {
+    "id": "a12",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "en": "Indeed, Allah loves the doers of good.",
+    "fr": "Allah aime les bienfaisants.",
+    "ref": "Quran 2:195",
+    "topic": "ayah-12"
+  },
+  {
+    "id": "a13",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+    "en": "Indeed, Allah loves those who repent often.",
+    "fr": "Allah aime ceux qui se repentent souvent.",
+    "ref": "Quran 2:222",
+    "topic": "ayah-13"
+  },
+  {
+    "id": "a14",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    "en": "Indeed, Allah is ever watchful over you.",
+    "fr": "Allah vous observe constamment.",
+    "ref": "Quran 4:1",
+    "topic": "ayah-14"
+  },
+  {
+    "id": "a15",
+    "type": "ayah",
+    "ar": "وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+    "en": "Allah knows and you do not know.",
+    "fr": "Allah sait alors que vous ne savez pas.",
+    "ref": "Quran 2:216",
+    "topic": "ayah-15"
+  },
+  {
+    "id": "a16",
+    "type": "ayah",
+    "ar": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "en": "Speak kindly to people.",
+    "fr": "Parlez aux gens avec bonté.",
+    "ref": "Quran 2:83",
+    "topic": "ayah-16"
+  },
+  {
+    "id": "a17",
+    "type": "ayah",
+    "ar": "وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ",
+    "en": "Do not despair of relief from Allah.",
+    "fr": "Ne désespérez pas de la miséricorde d’Allah.",
+    "ref": "Quran 12:87",
+    "topic": "ayah-17"
+  },
+  {
+    "id": "a18",
+    "type": "ayah",
+    "ar": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+    "en": "Indeed, my Lord is Near and Responsive.",
+    "fr": "Mon Seigneur est proche et exauce.",
+    "ref": "Quran 11:61",
+    "topic": "ayah-18"
+  },
+  {
+    "id": "a19",
+    "type": "ayah",
+    "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "en": "Allah is sufficient for us, and He is the best Disposer of affairs.",
+    "fr": "Allah nous suffit, quel excellent Protecteur.",
+    "ref": "Quran 3:173",
+    "topic": "ayah-19"
+  },
+  {
+    "id": "a20",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "en": "Indeed, Allah is capable of all things.",
+    "fr": "Allah est capable de toute chose.",
+    "ref": "Quran 2:20",
+    "topic": "ayah-20"
+  },
+  {
+    "id": "a21",
+    "type": "ayah",
+    "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "en": "Say: He is Allah, the One.",
+    "fr": "Dis : Il est Allah, l’Unique.",
+    "ref": "Quran 112:1",
+    "topic": "ayah-21"
+  },
+  {
+    "id": "a22",
+    "type": "ayah",
+    "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "en": "You alone we worship, and You alone we ask for help.",
+    "fr": "C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide.",
+    "ref": "Quran 1:5",
+    "topic": "ayah-22"
+  },
+  {
+    "id": "a23",
+    "type": "ayah",
+    "ar": "فَفِرُّوا إِلَى اللَّهِ",
+    "en": "So flee to Allah.",
+    "fr": "Fuyez donc vers Allah.",
+    "ref": "Quran 51:50",
+    "topic": "ayah-23"
+  },
+  {
+    "id": "a24",
+    "type": "ayah",
+    "ar": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ",
+    "en": "The most honored of you in the sight of Allah is the most righteous.",
+    "fr": "Le plus noble auprès d’Allah est le plus pieux.",
+    "ref": "Quran 49:13",
+    "topic": "ayah-24"
+  },
+  {
+    "id": "a25",
+    "type": "ayah",
+    "ar": "وَتَوَكَّلْ عَلَى اللَّهِ",
+    "en": "Put your trust in Allah.",
+    "fr": "Place ta confiance en Allah.",
+    "ref": "Quran 33:3",
+    "topic": "ayah-25"
+  },
+  {
+    "id": "a26",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَنَا",
+    "en": "Indeed, Allah is with us.",
+    "fr": "Allah est avec nous.",
+    "ref": "Quran 9:40",
+    "topic": "ayah-26"
+  },
+  {
+    "id": "a27",
+    "type": "ayah",
+    "ar": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+    "en": "Peace, a word from a Merciful Lord.",
+    "fr": "Paix, parole venant d’un Seigneur très Miséricordieux.",
+    "ref": "Quran 36:58",
+    "topic": "ayah-27"
+  },
+  {
+    "id": "a28",
+    "type": "ayah",
+    "ar": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "en": "Our Lord, accept this from us.",
+    "fr": "Notre Seigneur, accepte cela de nous.",
+    "ref": "Quran 2:127",
+    "topic": "ayah-28"
+  },
+  {
+    "id": "a29",
+    "type": "ayah",
+    "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "en": "Indeed, with hardship comes ease.",
+    "fr": "Avec la difficulté vient certes la facilité.",
+    "ref": "Quran 94:6",
+    "topic": "ayah-1"
+  },
+  {
+    "id": "a30",
+    "type": "ayah",
+    "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "en": "Surely in the remembrance of Allah do hearts find rest.",
+    "fr": "C’est par l’évocation d’Allah que les cœurs se tranquillisent.",
+    "ref": "Quran 13:28",
+    "topic": "ayah-2"
+  },
+  {
+    "id": "a31",
+    "type": "ayah",
+    "ar": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "en": "Call upon Me, and I will respond to you.",
+    "fr": "Invoquez-Moi, Je vous répondrai.",
+    "ref": "Quran 40:60",
+    "topic": "ayah-3"
+  },
+  {
+    "id": "a32",
+    "type": "ayah",
+    "ar": "رَبِّ زِدْنِي عِلْمًا",
+    "en": "My Lord, increase me in knowledge.",
+    "fr": "Seigneur, accrois-moi en science.",
+    "ref": "Quran 20:114",
+    "topic": "ayah-4"
+  },
+  {
+    "id": "a33",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "en": "Indeed, Allah is with the patient.",
+    "fr": "Allah est avec les patients.",
+    "ref": "Quran 2:153",
+    "topic": "ayah-5"
+  },
+  {
+    "id": "a34",
+    "type": "ayah",
+    "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+    "en": "Your Lord will surely give you, and you will be pleased.",
+    "fr": "Ton Seigneur te donnera et tu seras satisfait.",
+    "ref": "Quran 93:5",
+    "topic": "ayah-6"
+  },
+  {
+    "id": "a35",
+    "type": "ayah",
+    "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "en": "Remember Me; I will remember you.",
+    "fr": "Souvenez-vous de Moi, Je Me souviendrai de vous.",
+    "ref": "Quran 2:152",
+    "topic": "ayah-7"
+  },
+  {
+    "id": "a36",
+    "type": "ayah",
+    "ar": "وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+    "en": "Allah is the best of providers.",
+    "fr": "Allah est le Meilleur des pourvoyeurs.",
+    "ref": "Quran 62:11",
+    "topic": "ayah-8"
+  },
+  {
+    "id": "a37",
+    "type": "ayah",
+    "ar": "وَاللَّهُ غَفُورٌ رَحِيمٌ",
+    "en": "Allah is All-Forgiving, Most Merciful.",
+    "fr": "Allah est Pardonneur et Miséricordieux.",
+    "ref": "Quran 3:31",
+    "topic": "ayah-9"
+  },
+  {
+    "id": "a38",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "en": "Indeed, Allah loves those who rely upon Him.",
+    "fr": "Allah aime ceux qui placent leur confiance en Lui.",
+    "ref": "Quran 3:159",
+    "topic": "ayah-10"
+  },
+  {
+    "id": "a39",
+    "type": "ayah",
+    "ar": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+    "en": "Be patient, and your patience is only through Allah.",
+    "fr": "Sois patient, ta patience n’est que par Allah.",
+    "ref": "Quran 16:127",
+    "topic": "ayah-11"
+  },
+  {
+    "id": "a40",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "en": "Indeed, Allah loves the doers of good.",
+    "fr": "Allah aime les bienfaisants.",
+    "ref": "Quran 2:195",
+    "topic": "ayah-12"
+  },
+  {
+    "id": "a41",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+    "en": "Indeed, Allah loves those who repent often.",
+    "fr": "Allah aime ceux qui se repentent souvent.",
+    "ref": "Quran 2:222",
+    "topic": "ayah-13"
+  },
+  {
+    "id": "a42",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    "en": "Indeed, Allah is ever watchful over you.",
+    "fr": "Allah vous observe constamment.",
+    "ref": "Quran 4:1",
+    "topic": "ayah-14"
+  },
+  {
+    "id": "a43",
+    "type": "ayah",
+    "ar": "وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+    "en": "Allah knows and you do not know.",
+    "fr": "Allah sait alors que vous ne savez pas.",
+    "ref": "Quran 2:216",
+    "topic": "ayah-15"
+  },
+  {
+    "id": "a44",
+    "type": "ayah",
+    "ar": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "en": "Speak kindly to people.",
+    "fr": "Parlez aux gens avec bonté.",
+    "ref": "Quran 2:83",
+    "topic": "ayah-16"
+  },
+  {
+    "id": "a45",
+    "type": "ayah",
+    "ar": "وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ",
+    "en": "Do not despair of relief from Allah.",
+    "fr": "Ne désespérez pas de la miséricorde d’Allah.",
+    "ref": "Quran 12:87",
+    "topic": "ayah-17"
+  },
+  {
+    "id": "a46",
+    "type": "ayah",
+    "ar": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+    "en": "Indeed, my Lord is Near and Responsive.",
+    "fr": "Mon Seigneur est proche et exauce.",
+    "ref": "Quran 11:61",
+    "topic": "ayah-18"
+  },
+  {
+    "id": "a47",
+    "type": "ayah",
+    "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "en": "Allah is sufficient for us, and He is the best Disposer of affairs.",
+    "fr": "Allah nous suffit, quel excellent Protecteur.",
+    "ref": "Quran 3:173",
+    "topic": "ayah-19"
+  },
+  {
+    "id": "a48",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "en": "Indeed, Allah is capable of all things.",
+    "fr": "Allah est capable de toute chose.",
+    "ref": "Quran 2:20",
+    "topic": "ayah-20"
+  },
+  {
+    "id": "a49",
+    "type": "ayah",
+    "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "en": "Say: He is Allah, the One.",
+    "fr": "Dis : Il est Allah, l’Unique.",
+    "ref": "Quran 112:1",
+    "topic": "ayah-21"
+  },
+  {
+    "id": "a50",
+    "type": "ayah",
+    "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "en": "You alone we worship, and You alone we ask for help.",
+    "fr": "C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide.",
+    "ref": "Quran 1:5",
+    "topic": "ayah-22"
+  },
+  {
+    "id": "a51",
+    "type": "ayah",
+    "ar": "فَفِرُّوا إِلَى اللَّهِ",
+    "en": "So flee to Allah.",
+    "fr": "Fuyez donc vers Allah.",
+    "ref": "Quran 51:50",
+    "topic": "ayah-23"
+  },
+  {
+    "id": "a52",
+    "type": "ayah",
+    "ar": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ",
+    "en": "The most honored of you in the sight of Allah is the most righteous.",
+    "fr": "Le plus noble auprès d’Allah est le plus pieux.",
+    "ref": "Quran 49:13",
+    "topic": "ayah-24"
+  },
+  {
+    "id": "a53",
+    "type": "ayah",
+    "ar": "وَتَوَكَّلْ عَلَى اللَّهِ",
+    "en": "Put your trust in Allah.",
+    "fr": "Place ta confiance en Allah.",
+    "ref": "Quran 33:3",
+    "topic": "ayah-25"
+  },
+  {
+    "id": "a54",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَنَا",
+    "en": "Indeed, Allah is with us.",
+    "fr": "Allah est avec nous.",
+    "ref": "Quran 9:40",
+    "topic": "ayah-26"
+  },
+  {
+    "id": "a55",
+    "type": "ayah",
+    "ar": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+    "en": "Peace, a word from a Merciful Lord.",
+    "fr": "Paix, parole venant d’un Seigneur très Miséricordieux.",
+    "ref": "Quran 36:58",
+    "topic": "ayah-27"
+  },
+  {
+    "id": "a56",
+    "type": "ayah",
+    "ar": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "en": "Our Lord, accept this from us.",
+    "fr": "Notre Seigneur, accepte cela de nous.",
+    "ref": "Quran 2:127",
+    "topic": "ayah-28"
+  },
+  {
+    "id": "a57",
+    "type": "ayah",
+    "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "en": "Indeed, with hardship comes ease.",
+    "fr": "Avec la difficulté vient certes la facilité.",
+    "ref": "Quran 94:6",
+    "topic": "ayah-1"
+  },
+  {
+    "id": "a58",
+    "type": "ayah",
+    "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "en": "Surely in the remembrance of Allah do hearts find rest.",
+    "fr": "C’est par l’évocation d’Allah que les cœurs se tranquillisent.",
+    "ref": "Quran 13:28",
+    "topic": "ayah-2"
+  },
+  {
+    "id": "a59",
+    "type": "ayah",
+    "ar": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "en": "Call upon Me, and I will respond to you.",
+    "fr": "Invoquez-Moi, Je vous répondrai.",
+    "ref": "Quran 40:60",
+    "topic": "ayah-3"
+  },
+  {
+    "id": "a60",
+    "type": "ayah",
+    "ar": "رَبِّ زِدْنِي عِلْمًا",
+    "en": "My Lord, increase me in knowledge.",
+    "fr": "Seigneur, accrois-moi en science.",
+    "ref": "Quran 20:114",
+    "topic": "ayah-4"
+  },
+  {
+    "id": "a61",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "en": "Indeed, Allah is with the patient.",
+    "fr": "Allah est avec les patients.",
+    "ref": "Quran 2:153",
+    "topic": "ayah-5"
+  },
+  {
+    "id": "a62",
+    "type": "ayah",
+    "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+    "en": "Your Lord will surely give you, and you will be pleased.",
+    "fr": "Ton Seigneur te donnera et tu seras satisfait.",
+    "ref": "Quran 93:5",
+    "topic": "ayah-6"
+  },
+  {
+    "id": "a63",
+    "type": "ayah",
+    "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "en": "Remember Me; I will remember you.",
+    "fr": "Souvenez-vous de Moi, Je Me souviendrai de vous.",
+    "ref": "Quran 2:152",
+    "topic": "ayah-7"
+  },
+  {
+    "id": "a64",
+    "type": "ayah",
+    "ar": "وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+    "en": "Allah is the best of providers.",
+    "fr": "Allah est le Meilleur des pourvoyeurs.",
+    "ref": "Quran 62:11",
+    "topic": "ayah-8"
+  },
+  {
+    "id": "a65",
+    "type": "ayah",
+    "ar": "وَاللَّهُ غَفُورٌ رَحِيمٌ",
+    "en": "Allah is All-Forgiving, Most Merciful.",
+    "fr": "Allah est Pardonneur et Miséricordieux.",
+    "ref": "Quran 3:31",
+    "topic": "ayah-9"
+  },
+  {
+    "id": "a66",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "en": "Indeed, Allah loves those who rely upon Him.",
+    "fr": "Allah aime ceux qui placent leur confiance en Lui.",
+    "ref": "Quran 3:159",
+    "topic": "ayah-10"
+  },
+  {
+    "id": "a67",
+    "type": "ayah",
+    "ar": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+    "en": "Be patient, and your patience is only through Allah.",
+    "fr": "Sois patient, ta patience n’est que par Allah.",
+    "ref": "Quran 16:127",
+    "topic": "ayah-11"
+  },
+  {
+    "id": "a68",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "en": "Indeed, Allah loves the doers of good.",
+    "fr": "Allah aime les bienfaisants.",
+    "ref": "Quran 2:195",
+    "topic": "ayah-12"
+  },
+  {
+    "id": "a69",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+    "en": "Indeed, Allah loves those who repent often.",
+    "fr": "Allah aime ceux qui se repentent souvent.",
+    "ref": "Quran 2:222",
+    "topic": "ayah-13"
+  },
+  {
+    "id": "a70",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    "en": "Indeed, Allah is ever watchful over you.",
+    "fr": "Allah vous observe constamment.",
+    "ref": "Quran 4:1",
+    "topic": "ayah-14"
+  },
+  {
+    "id": "a71",
+    "type": "ayah",
+    "ar": "وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+    "en": "Allah knows and you do not know.",
+    "fr": "Allah sait alors que vous ne savez pas.",
+    "ref": "Quran 2:216",
+    "topic": "ayah-15"
+  },
+  {
+    "id": "a72",
+    "type": "ayah",
+    "ar": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "en": "Speak kindly to people.",
+    "fr": "Parlez aux gens avec bonté.",
+    "ref": "Quran 2:83",
+    "topic": "ayah-16"
+  },
+  {
+    "id": "a73",
+    "type": "ayah",
+    "ar": "وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ",
+    "en": "Do not despair of relief from Allah.",
+    "fr": "Ne désespérez pas de la miséricorde d’Allah.",
+    "ref": "Quran 12:87",
+    "topic": "ayah-17"
+  },
+  {
+    "id": "a74",
+    "type": "ayah",
+    "ar": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+    "en": "Indeed, my Lord is Near and Responsive.",
+    "fr": "Mon Seigneur est proche et exauce.",
+    "ref": "Quran 11:61",
+    "topic": "ayah-18"
+  },
+  {
+    "id": "a75",
+    "type": "ayah",
+    "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "en": "Allah is sufficient for us, and He is the best Disposer of affairs.",
+    "fr": "Allah nous suffit, quel excellent Protecteur.",
+    "ref": "Quran 3:173",
+    "topic": "ayah-19"
+  },
+  {
+    "id": "a76",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "en": "Indeed, Allah is capable of all things.",
+    "fr": "Allah est capable de toute chose.",
+    "ref": "Quran 2:20",
+    "topic": "ayah-20"
+  },
+  {
+    "id": "a77",
+    "type": "ayah",
+    "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "en": "Say: He is Allah, the One.",
+    "fr": "Dis : Il est Allah, l’Unique.",
+    "ref": "Quran 112:1",
+    "topic": "ayah-21"
+  },
+  {
+    "id": "a78",
+    "type": "ayah",
+    "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "en": "You alone we worship, and You alone we ask for help.",
+    "fr": "C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide.",
+    "ref": "Quran 1:5",
+    "topic": "ayah-22"
+  },
+  {
+    "id": "a79",
+    "type": "ayah",
+    "ar": "فَفِرُّوا إِلَى اللَّهِ",
+    "en": "So flee to Allah.",
+    "fr": "Fuyez donc vers Allah.",
+    "ref": "Quran 51:50",
+    "topic": "ayah-23"
+  },
+  {
+    "id": "a80",
+    "type": "ayah",
+    "ar": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ",
+    "en": "The most honored of you in the sight of Allah is the most righteous.",
+    "fr": "Le plus noble auprès d’Allah est le plus pieux.",
+    "ref": "Quran 49:13",
+    "topic": "ayah-24"
+  },
+  {
+    "id": "a81",
+    "type": "ayah",
+    "ar": "وَتَوَكَّلْ عَلَى اللَّهِ",
+    "en": "Put your trust in Allah.",
+    "fr": "Place ta confiance en Allah.",
+    "ref": "Quran 33:3",
+    "topic": "ayah-25"
+  },
+  {
+    "id": "a82",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَنَا",
+    "en": "Indeed, Allah is with us.",
+    "fr": "Allah est avec nous.",
+    "ref": "Quran 9:40",
+    "topic": "ayah-26"
+  },
+  {
+    "id": "a83",
+    "type": "ayah",
+    "ar": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+    "en": "Peace, a word from a Merciful Lord.",
+    "fr": "Paix, parole venant d’un Seigneur très Miséricordieux.",
+    "ref": "Quran 36:58",
+    "topic": "ayah-27"
+  },
+  {
+    "id": "a84",
+    "type": "ayah",
+    "ar": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "en": "Our Lord, accept this from us.",
+    "fr": "Notre Seigneur, accepte cela de nous.",
+    "ref": "Quran 2:127",
+    "topic": "ayah-28"
+  },
+  {
+    "id": "a85",
+    "type": "ayah",
+    "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "en": "Indeed, with hardship comes ease.",
+    "fr": "Avec la difficulté vient certes la facilité.",
+    "ref": "Quran 94:6",
+    "topic": "ayah-1"
+  },
+  {
+    "id": "a86",
+    "type": "ayah",
+    "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "en": "Surely in the remembrance of Allah do hearts find rest.",
+    "fr": "C’est par l’évocation d’Allah que les cœurs se tranquillisent.",
+    "ref": "Quran 13:28",
+    "topic": "ayah-2"
+  },
+  {
+    "id": "a87",
+    "type": "ayah",
+    "ar": "ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "en": "Call upon Me, and I will respond to you.",
+    "fr": "Invoquez-Moi, Je vous répondrai.",
+    "ref": "Quran 40:60",
+    "topic": "ayah-3"
+  },
+  {
+    "id": "a88",
+    "type": "ayah",
+    "ar": "رَبِّ زِدْنِي عِلْمًا",
+    "en": "My Lord, increase me in knowledge.",
+    "fr": "Seigneur, accrois-moi en science.",
+    "ref": "Quran 20:114",
+    "topic": "ayah-4"
+  },
+  {
+    "id": "a89",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "en": "Indeed, Allah is with the patient.",
+    "fr": "Allah est avec les patients.",
+    "ref": "Quran 2:153",
+    "topic": "ayah-5"
+  },
+  {
+    "id": "a90",
+    "type": "ayah",
+    "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+    "en": "Your Lord will surely give you, and you will be pleased.",
+    "fr": "Ton Seigneur te donnera et tu seras satisfait.",
+    "ref": "Quran 93:5",
+    "topic": "ayah-6"
+  },
+  {
+    "id": "a91",
+    "type": "ayah",
+    "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "en": "Remember Me; I will remember you.",
+    "fr": "Souvenez-vous de Moi, Je Me souviendrai de vous.",
+    "ref": "Quran 2:152",
+    "topic": "ayah-7"
+  },
+  {
+    "id": "a92",
+    "type": "ayah",
+    "ar": "وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+    "en": "Allah is the best of providers.",
+    "fr": "Allah est le Meilleur des pourvoyeurs.",
+    "ref": "Quran 62:11",
+    "topic": "ayah-8"
+  },
+  {
+    "id": "a93",
+    "type": "ayah",
+    "ar": "وَاللَّهُ غَفُورٌ رَحِيمٌ",
+    "en": "Allah is All-Forgiving, Most Merciful.",
+    "fr": "Allah est Pardonneur et Miséricordieux.",
+    "ref": "Quran 3:31",
+    "topic": "ayah-9"
+  },
+  {
+    "id": "a94",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "en": "Indeed, Allah loves those who rely upon Him.",
+    "fr": "Allah aime ceux qui placent leur confiance en Lui.",
+    "ref": "Quran 3:159",
+    "topic": "ayah-10"
+  },
+  {
+    "id": "a95",
+    "type": "ayah",
+    "ar": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+    "en": "Be patient, and your patience is only through Allah.",
+    "fr": "Sois patient, ta patience n’est que par Allah.",
+    "ref": "Quran 16:127",
+    "topic": "ayah-11"
+  },
+  {
+    "id": "a96",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "en": "Indeed, Allah loves the doers of good.",
+    "fr": "Allah aime les bienfaisants.",
+    "ref": "Quran 2:195",
+    "topic": "ayah-12"
+  },
+  {
+    "id": "a97",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+    "en": "Indeed, Allah loves those who repent often.",
+    "fr": "Allah aime ceux qui se repentent souvent.",
+    "ref": "Quran 2:222",
+    "topic": "ayah-13"
+  },
+  {
+    "id": "a98",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    "en": "Indeed, Allah is ever watchful over you.",
+    "fr": "Allah vous observe constamment.",
+    "ref": "Quran 4:1",
+    "topic": "ayah-14"
+  },
+  {
+    "id": "a99",
+    "type": "ayah",
+    "ar": "وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+    "en": "Allah knows and you do not know.",
+    "fr": "Allah sait alors que vous ne savez pas.",
+    "ref": "Quran 2:216",
+    "topic": "ayah-15"
+  },
+  {
+    "id": "a100",
+    "type": "ayah",
+    "ar": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "en": "Speak kindly to people.",
+    "fr": "Parlez aux gens avec bonté.",
+    "ref": "Quran 2:83",
+    "topic": "ayah-16"
+  },
+  {
+    "id": "a101",
+    "type": "ayah",
+    "ar": "وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ",
+    "en": "Do not despair of relief from Allah.",
+    "fr": "Ne désespérez pas de la miséricorde d’Allah.",
+    "ref": "Quran 12:87",
+    "topic": "ayah-17"
+  },
+  {
+    "id": "a102",
+    "type": "ayah",
+    "ar": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+    "en": "Indeed, my Lord is Near and Responsive.",
+    "fr": "Mon Seigneur est proche et exauce.",
+    "ref": "Quran 11:61",
+    "topic": "ayah-18"
+  },
+  {
+    "id": "a103",
+    "type": "ayah",
+    "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "en": "Allah is sufficient for us, and He is the best Disposer of affairs.",
+    "fr": "Allah nous suffit, quel excellent Protecteur.",
+    "ref": "Quran 3:173",
+    "topic": "ayah-19"
+  },
+  {
+    "id": "a104",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "en": "Indeed, Allah is capable of all things.",
+    "fr": "Allah est capable de toute chose.",
+    "ref": "Quran 2:20",
+    "topic": "ayah-20"
+  },
+  {
+    "id": "a105",
+    "type": "ayah",
+    "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "en": "Say: He is Allah, the One.",
+    "fr": "Dis : Il est Allah, l’Unique.",
+    "ref": "Quran 112:1",
+    "topic": "ayah-21"
+  },
+  {
+    "id": "a106",
+    "type": "ayah",
+    "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "en": "You alone we worship, and You alone we ask for help.",
+    "fr": "C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide.",
+    "ref": "Quran 1:5",
+    "topic": "ayah-22"
+  },
+  {
+    "id": "a107",
+    "type": "ayah",
+    "ar": "فَفِرُّوا إِلَى اللَّهِ",
+    "en": "So flee to Allah.",
+    "fr": "Fuyez donc vers Allah.",
+    "ref": "Quran 51:50",
+    "topic": "ayah-23"
+  },
+  {
+    "id": "a108",
+    "type": "ayah",
+    "ar": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ",
+    "en": "The most honored of you in the sight of Allah is the most righteous.",
+    "fr": "Le plus noble auprès d’Allah est le plus pieux.",
+    "ref": "Quran 49:13",
+    "topic": "ayah-24"
+  },
+  {
+    "id": "a109",
+    "type": "ayah",
+    "ar": "وَتَوَكَّلْ عَلَى اللَّهِ",
+    "en": "Put your trust in Allah.",
+    "fr": "Place ta confiance en Allah.",
+    "ref": "Quran 33:3",
+    "topic": "ayah-25"
+  },
+  {
+    "id": "a110",
+    "type": "ayah",
+    "ar": "إِنَّ اللَّهَ مَعَنَا",
+    "en": "Indeed, Allah is with us.",
+    "fr": "Allah est avec nous.",
+    "ref": "Quran 9:40",
+    "topic": "ayah-26"
+  },
+  {
+    "id": "a111",
+    "type": "ayah",
+    "ar": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+    "en": "Peace, a word from a Merciful Lord.",
+    "fr": "Paix, parole venant d’un Seigneur très Miséricordieux.",
+    "ref": "Quran 36:58",
+    "topic": "ayah-27"
+  },
+  {
+    "id": "a112",
+    "type": "ayah",
+    "ar": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "en": "Our Lord, accept this from us.",
+    "fr": "Notre Seigneur, accepte cela de nous.",
+    "ref": "Quran 2:127",
+    "topic": "ayah-28"
+  },
+  {
+    "id": "h1",
+    "type": "hadith",
+    "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+    "en": "Actions are judged by intentions.",
+    "fr": "Les actions ne valent que par les intentions.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-1"
+  },
+  {
+    "id": "h2",
+    "type": "hadith",
+    "ar": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+    "en": "Allah is beautiful and He loves beauty.",
+    "fr": "Allah est Beau et Il aime la beauté.",
+    "ref": "Muslim",
+    "topic": "hadith-2"
+  },
+  {
+    "id": "h3",
+    "type": "hadith",
+    "ar": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "en": "A good word is charity.",
+    "fr": "Une bonne parole est une aumône.",
+    "ref": "Bukhari",
+    "topic": "hadith-3"
+  },
+  {
+    "id": "h4",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "en": "The best of you are those who learn the Quran and teach it.",
+    "fr": "Le meilleur d’entre vous est celui qui apprend le Coran et l’enseigne.",
+    "ref": "Bukhari",
+    "topic": "hadith-4"
+  },
+  {
+    "id": "h5",
+    "type": "hadith",
+    "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+    "en": "Smiling at your brother is charity.",
+    "fr": "Ton sourire à ton frère est une aumône.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-5"
+  },
+  {
+    "id": "h6",
+    "type": "hadith",
+    "ar": "الدِّينُ النَّصِيحَةُ",
+    "en": "Religion is sincere advice.",
+    "fr": "La religion, c’est le bon conseil.",
+    "ref": "Muslim",
+    "topic": "hadith-6"
+  },
+  {
+    "id": "h7",
+    "type": "hadith",
+    "ar": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ",
+    "en": "The best people are those most beneficial to people.",
+    "fr": "Le meilleur des gens est le plus utile aux autres.",
+    "ref": "al-Mu‘jam al-Awsat",
+    "topic": "hadith-7"
+  },
+  {
+    "id": "h8",
+    "type": "hadith",
+    "ar": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+    "en": "Make things easy and do not make them difficult.",
+    "fr": "Facilitez et ne compliquez pas.",
+    "ref": "Bukhari",
+    "topic": "hadith-8"
+  },
+  {
+    "id": "h9",
+    "type": "hadith",
+    "ar": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ",
+    "en": "Be mindful of Allah wherever you are.",
+    "fr": "Crains Allah où que tu sois.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-9"
+  },
+  {
+    "id": "h10",
+    "type": "hadith",
+    "ar": "لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ",
+    "en": "He who does not thank people does not thank Allah.",
+    "fr": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-10"
+  },
+  {
+    "id": "h11",
+    "type": "hadith",
+    "ar": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
+    "en": "The merciful are shown mercy by the Most Merciful.",
+    "fr": "Les miséricordieux reçoivent la miséricorde du Tout Miséricordieux.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-11"
+  },
+  {
+    "id": "h12",
+    "type": "hadith",
+    "ar": "لَا تَغْضَبْ",
+    "en": "Do not become angry.",
+    "fr": "Ne te mets pas en colère.",
+    "ref": "Bukhari",
+    "topic": "hadith-12"
+  },
+  {
+    "id": "h13",
+    "type": "hadith",
+    "ar": "مَنْ صَمَتَ نَجَا",
+    "en": "Whoever remains silent is saved.",
+    "fr": "Celui qui garde le silence est sauvé.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-13"
+  },
+  {
+    "id": "h14",
+    "type": "hadith",
+    "ar": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+    "en": "Purity is half of faith.",
+    "fr": "La pureté est la moitié de la foi.",
+    "ref": "Muslim",
+    "topic": "hadith-14"
+  },
+  {
+    "id": "h15",
+    "type": "hadith",
+    "ar": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "en": "Supplication is worship.",
+    "fr": "L’invocation est l’adoration.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-15"
+  },
+  {
+    "id": "h16",
+    "type": "hadith",
+    "ar": "الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ",
+    "en": "A believer to another believer is like a building.",
+    "fr": "Le croyant pour le croyant est comme un édifice.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-16"
+  },
+  {
+    "id": "h17",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+    "en": "The best of you are the best to their families.",
+    "fr": "Le meilleur d’entre vous est le meilleur envers sa famille.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-17"
+  },
+  {
+    "id": "h18",
+    "type": "hadith",
+    "ar": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+    "en": "Whoever does not show mercy will not be shown mercy.",
+    "fr": "Celui qui ne fait pas miséricorde ne recevra pas miséricorde.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-18"
+  },
+  {
+    "id": "h19",
+    "type": "hadith",
+    "ar": "إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ",
+    "en": "When Allah loves a servant, He calls Jibril.",
+    "fr": "Quand Allah aime un serviteur, Il appelle Jibril.",
+    "ref": "Bukhari",
+    "topic": "hadith-19"
+  },
+  {
+    "id": "h20",
+    "type": "hadith",
+    "ar": "أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ",
+    "en": "The best remembrance is: There is no god but Allah.",
+    "fr": "Le meilleur rappel est : Il n’y a de divinité qu’Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-20"
+  },
+  {
+    "id": "h21",
+    "type": "hadith",
+    "ar": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا",
+    "en": "The deeds most loved by Allah are those done consistently.",
+    "fr": "Les œuvres les plus aimées d’Allah sont celles qui sont constantes.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-21"
+  },
+  {
+    "id": "h22",
+    "type": "hadith",
+    "ar": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلَاقًا",
+    "en": "The best of you are those with the best character.",
+    "fr": "Les meilleurs d’entre vous sont ceux qui ont le meilleur comportement.",
+    "ref": "Bukhari",
+    "topic": "hadith-22"
+  },
+  {
+    "id": "h23",
+    "type": "hadith",
+    "ar": "مَنْ لَطَفَ بِعِبَادِ اللَّهِ لَطَفَ اللَّهُ بِهِ",
+    "en": "Whoever is gentle with the servants of Allah, Allah is gentle with him.",
+    "fr": "Celui qui est doux avec les serviteurs d’Allah, Allah est doux avec lui.",
+    "ref": "Meaning from sound narrations",
+    "topic": "hadith-23"
+  },
+  {
+    "id": "h24",
+    "type": "hadith",
+    "ar": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ",
+    "en": "The one who cares for the widow and the poor is like a mujahid.",
+    "fr": "Celui qui aide la veuve et le pauvre est comme le combattant dans le sentier d’Allah.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-24"
+  },
+  {
+    "id": "h25",
+    "type": "hadith",
+    "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ",
+    "en": "The strong one is not the one who overcomes others by force.",
+    "fr": "Le fort n’est pas celui qui terrasse les autres.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-25"
+  },
+  {
+    "id": "h26",
+    "type": "hadith",
+    "ar": "مَنْ حُرِمَ الرِّفْقَ حُرِمَ الْخَيْرَ",
+    "en": "Whoever is deprived of gentleness is deprived of good.",
+    "fr": "Celui qui est privé de douceur est privé de bien.",
+    "ref": "Muslim",
+    "topic": "hadith-26"
+  },
+  {
+    "id": "h27",
+    "type": "hadith",
+    "ar": "اتَّبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا",
+    "en": "Follow a bad deed with a good one and it will erase it.",
+    "fr": "Fais suivre la mauvaise action d’une bonne qui l’effacera.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-27"
+  },
+  {
+    "id": "h28",
+    "type": "hadith",
+    "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "en": "A Muslim is the one from whose tongue and hand other Muslims are safe.",
+    "fr": "Le musulman est celui dont les musulmans sont à l’abri de la langue et de la main.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-28"
+  },
+  {
+    "id": "h29",
+    "type": "hadith",
+    "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+    "en": "Actions are judged by intentions.",
+    "fr": "Les actions ne valent que par les intentions.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-1"
+  },
+  {
+    "id": "h30",
+    "type": "hadith",
+    "ar": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+    "en": "Allah is beautiful and He loves beauty.",
+    "fr": "Allah est Beau et Il aime la beauté.",
+    "ref": "Muslim",
+    "topic": "hadith-2"
+  },
+  {
+    "id": "h31",
+    "type": "hadith",
+    "ar": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "en": "A good word is charity.",
+    "fr": "Une bonne parole est une aumône.",
+    "ref": "Bukhari",
+    "topic": "hadith-3"
+  },
+  {
+    "id": "h32",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "en": "The best of you are those who learn the Quran and teach it.",
+    "fr": "Le meilleur d’entre vous est celui qui apprend le Coran et l’enseigne.",
+    "ref": "Bukhari",
+    "topic": "hadith-4"
+  },
+  {
+    "id": "h33",
+    "type": "hadith",
+    "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+    "en": "Smiling at your brother is charity.",
+    "fr": "Ton sourire à ton frère est une aumône.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-5"
+  },
+  {
+    "id": "h34",
+    "type": "hadith",
+    "ar": "الدِّينُ النَّصِيحَةُ",
+    "en": "Religion is sincere advice.",
+    "fr": "La religion, c’est le bon conseil.",
+    "ref": "Muslim",
+    "topic": "hadith-6"
+  },
+  {
+    "id": "h35",
+    "type": "hadith",
+    "ar": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ",
+    "en": "The best people are those most beneficial to people.",
+    "fr": "Le meilleur des gens est le plus utile aux autres.",
+    "ref": "al-Mu‘jam al-Awsat",
+    "topic": "hadith-7"
+  },
+  {
+    "id": "h36",
+    "type": "hadith",
+    "ar": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+    "en": "Make things easy and do not make them difficult.",
+    "fr": "Facilitez et ne compliquez pas.",
+    "ref": "Bukhari",
+    "topic": "hadith-8"
+  },
+  {
+    "id": "h37",
+    "type": "hadith",
+    "ar": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ",
+    "en": "Be mindful of Allah wherever you are.",
+    "fr": "Crains Allah où que tu sois.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-9"
+  },
+  {
+    "id": "h38",
+    "type": "hadith",
+    "ar": "لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ",
+    "en": "He who does not thank people does not thank Allah.",
+    "fr": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-10"
+  },
+  {
+    "id": "h39",
+    "type": "hadith",
+    "ar": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
+    "en": "The merciful are shown mercy by the Most Merciful.",
+    "fr": "Les miséricordieux reçoivent la miséricorde du Tout Miséricordieux.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-11"
+  },
+  {
+    "id": "h40",
+    "type": "hadith",
+    "ar": "لَا تَغْضَبْ",
+    "en": "Do not become angry.",
+    "fr": "Ne te mets pas en colère.",
+    "ref": "Bukhari",
+    "topic": "hadith-12"
+  },
+  {
+    "id": "h41",
+    "type": "hadith",
+    "ar": "مَنْ صَمَتَ نَجَا",
+    "en": "Whoever remains silent is saved.",
+    "fr": "Celui qui garde le silence est sauvé.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-13"
+  },
+  {
+    "id": "h42",
+    "type": "hadith",
+    "ar": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+    "en": "Purity is half of faith.",
+    "fr": "La pureté est la moitié de la foi.",
+    "ref": "Muslim",
+    "topic": "hadith-14"
+  },
+  {
+    "id": "h43",
+    "type": "hadith",
+    "ar": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "en": "Supplication is worship.",
+    "fr": "L’invocation est l’adoration.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-15"
+  },
+  {
+    "id": "h44",
+    "type": "hadith",
+    "ar": "الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ",
+    "en": "A believer to another believer is like a building.",
+    "fr": "Le croyant pour le croyant est comme un édifice.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-16"
+  },
+  {
+    "id": "h45",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+    "en": "The best of you are the best to their families.",
+    "fr": "Le meilleur d’entre vous est le meilleur envers sa famille.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-17"
+  },
+  {
+    "id": "h46",
+    "type": "hadith",
+    "ar": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+    "en": "Whoever does not show mercy will not be shown mercy.",
+    "fr": "Celui qui ne fait pas miséricorde ne recevra pas miséricorde.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-18"
+  },
+  {
+    "id": "h47",
+    "type": "hadith",
+    "ar": "إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ",
+    "en": "When Allah loves a servant, He calls Jibril.",
+    "fr": "Quand Allah aime un serviteur, Il appelle Jibril.",
+    "ref": "Bukhari",
+    "topic": "hadith-19"
+  },
+  {
+    "id": "h48",
+    "type": "hadith",
+    "ar": "أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ",
+    "en": "The best remembrance is: There is no god but Allah.",
+    "fr": "Le meilleur rappel est : Il n’y a de divinité qu’Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-20"
+  },
+  {
+    "id": "h49",
+    "type": "hadith",
+    "ar": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا",
+    "en": "The deeds most loved by Allah are those done consistently.",
+    "fr": "Les œuvres les plus aimées d’Allah sont celles qui sont constantes.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-21"
+  },
+  {
+    "id": "h50",
+    "type": "hadith",
+    "ar": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلَاقًا",
+    "en": "The best of you are those with the best character.",
+    "fr": "Les meilleurs d’entre vous sont ceux qui ont le meilleur comportement.",
+    "ref": "Bukhari",
+    "topic": "hadith-22"
+  },
+  {
+    "id": "h51",
+    "type": "hadith",
+    "ar": "مَنْ لَطَفَ بِعِبَادِ اللَّهِ لَطَفَ اللَّهُ بِهِ",
+    "en": "Whoever is gentle with the servants of Allah, Allah is gentle with him.",
+    "fr": "Celui qui est doux avec les serviteurs d’Allah, Allah est doux avec lui.",
+    "ref": "Meaning from sound narrations",
+    "topic": "hadith-23"
+  },
+  {
+    "id": "h52",
+    "type": "hadith",
+    "ar": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ",
+    "en": "The one who cares for the widow and the poor is like a mujahid.",
+    "fr": "Celui qui aide la veuve et le pauvre est comme le combattant dans le sentier d’Allah.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-24"
+  },
+  {
+    "id": "h53",
+    "type": "hadith",
+    "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ",
+    "en": "The strong one is not the one who overcomes others by force.",
+    "fr": "Le fort n’est pas celui qui terrasse les autres.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-25"
+  },
+  {
+    "id": "h54",
+    "type": "hadith",
+    "ar": "مَنْ حُرِمَ الرِّفْقَ حُرِمَ الْخَيْرَ",
+    "en": "Whoever is deprived of gentleness is deprived of good.",
+    "fr": "Celui qui est privé de douceur est privé de bien.",
+    "ref": "Muslim",
+    "topic": "hadith-26"
+  },
+  {
+    "id": "h55",
+    "type": "hadith",
+    "ar": "اتَّبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا",
+    "en": "Follow a bad deed with a good one and it will erase it.",
+    "fr": "Fais suivre la mauvaise action d’une bonne qui l’effacera.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-27"
+  },
+  {
+    "id": "h56",
+    "type": "hadith",
+    "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "en": "A Muslim is the one from whose tongue and hand other Muslims are safe.",
+    "fr": "Le musulman est celui dont les musulmans sont à l’abri de la langue et de la main.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-28"
+  },
+  {
+    "id": "h57",
+    "type": "hadith",
+    "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+    "en": "Actions are judged by intentions.",
+    "fr": "Les actions ne valent que par les intentions.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-1"
+  },
+  {
+    "id": "h58",
+    "type": "hadith",
+    "ar": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+    "en": "Allah is beautiful and He loves beauty.",
+    "fr": "Allah est Beau et Il aime la beauté.",
+    "ref": "Muslim",
+    "topic": "hadith-2"
+  },
+  {
+    "id": "h59",
+    "type": "hadith",
+    "ar": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "en": "A good word is charity.",
+    "fr": "Une bonne parole est une aumône.",
+    "ref": "Bukhari",
+    "topic": "hadith-3"
+  },
+  {
+    "id": "h60",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "en": "The best of you are those who learn the Quran and teach it.",
+    "fr": "Le meilleur d’entre vous est celui qui apprend le Coran et l’enseigne.",
+    "ref": "Bukhari",
+    "topic": "hadith-4"
+  },
+  {
+    "id": "h61",
+    "type": "hadith",
+    "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+    "en": "Smiling at your brother is charity.",
+    "fr": "Ton sourire à ton frère est une aumône.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-5"
+  },
+  {
+    "id": "h62",
+    "type": "hadith",
+    "ar": "الدِّينُ النَّصِيحَةُ",
+    "en": "Religion is sincere advice.",
+    "fr": "La religion, c’est le bon conseil.",
+    "ref": "Muslim",
+    "topic": "hadith-6"
+  },
+  {
+    "id": "h63",
+    "type": "hadith",
+    "ar": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ",
+    "en": "The best people are those most beneficial to people.",
+    "fr": "Le meilleur des gens est le plus utile aux autres.",
+    "ref": "al-Mu‘jam al-Awsat",
+    "topic": "hadith-7"
+  },
+  {
+    "id": "h64",
+    "type": "hadith",
+    "ar": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+    "en": "Make things easy and do not make them difficult.",
+    "fr": "Facilitez et ne compliquez pas.",
+    "ref": "Bukhari",
+    "topic": "hadith-8"
+  },
+  {
+    "id": "h65",
+    "type": "hadith",
+    "ar": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ",
+    "en": "Be mindful of Allah wherever you are.",
+    "fr": "Crains Allah où que tu sois.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-9"
+  },
+  {
+    "id": "h66",
+    "type": "hadith",
+    "ar": "لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ",
+    "en": "He who does not thank people does not thank Allah.",
+    "fr": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-10"
+  },
+  {
+    "id": "h67",
+    "type": "hadith",
+    "ar": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
+    "en": "The merciful are shown mercy by the Most Merciful.",
+    "fr": "Les miséricordieux reçoivent la miséricorde du Tout Miséricordieux.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-11"
+  },
+  {
+    "id": "h68",
+    "type": "hadith",
+    "ar": "لَا تَغْضَبْ",
+    "en": "Do not become angry.",
+    "fr": "Ne te mets pas en colère.",
+    "ref": "Bukhari",
+    "topic": "hadith-12"
+  },
+  {
+    "id": "h69",
+    "type": "hadith",
+    "ar": "مَنْ صَمَتَ نَجَا",
+    "en": "Whoever remains silent is saved.",
+    "fr": "Celui qui garde le silence est sauvé.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-13"
+  },
+  {
+    "id": "h70",
+    "type": "hadith",
+    "ar": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+    "en": "Purity is half of faith.",
+    "fr": "La pureté est la moitié de la foi.",
+    "ref": "Muslim",
+    "topic": "hadith-14"
+  },
+  {
+    "id": "h71",
+    "type": "hadith",
+    "ar": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "en": "Supplication is worship.",
+    "fr": "L’invocation est l’adoration.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-15"
+  },
+  {
+    "id": "h72",
+    "type": "hadith",
+    "ar": "الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ",
+    "en": "A believer to another believer is like a building.",
+    "fr": "Le croyant pour le croyant est comme un édifice.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-16"
+  },
+  {
+    "id": "h73",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+    "en": "The best of you are the best to their families.",
+    "fr": "Le meilleur d’entre vous est le meilleur envers sa famille.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-17"
+  },
+  {
+    "id": "h74",
+    "type": "hadith",
+    "ar": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+    "en": "Whoever does not show mercy will not be shown mercy.",
+    "fr": "Celui qui ne fait pas miséricorde ne recevra pas miséricorde.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-18"
+  },
+  {
+    "id": "h75",
+    "type": "hadith",
+    "ar": "إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ",
+    "en": "When Allah loves a servant, He calls Jibril.",
+    "fr": "Quand Allah aime un serviteur, Il appelle Jibril.",
+    "ref": "Bukhari",
+    "topic": "hadith-19"
+  },
+  {
+    "id": "h76",
+    "type": "hadith",
+    "ar": "أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ",
+    "en": "The best remembrance is: There is no god but Allah.",
+    "fr": "Le meilleur rappel est : Il n’y a de divinité qu’Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-20"
+  },
+  {
+    "id": "h77",
+    "type": "hadith",
+    "ar": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا",
+    "en": "The deeds most loved by Allah are those done consistently.",
+    "fr": "Les œuvres les plus aimées d’Allah sont celles qui sont constantes.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-21"
+  },
+  {
+    "id": "h78",
+    "type": "hadith",
+    "ar": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلَاقًا",
+    "en": "The best of you are those with the best character.",
+    "fr": "Les meilleurs d’entre vous sont ceux qui ont le meilleur comportement.",
+    "ref": "Bukhari",
+    "topic": "hadith-22"
+  },
+  {
+    "id": "h79",
+    "type": "hadith",
+    "ar": "مَنْ لَطَفَ بِعِبَادِ اللَّهِ لَطَفَ اللَّهُ بِهِ",
+    "en": "Whoever is gentle with the servants of Allah, Allah is gentle with him.",
+    "fr": "Celui qui est doux avec les serviteurs d’Allah, Allah est doux avec lui.",
+    "ref": "Meaning from sound narrations",
+    "topic": "hadith-23"
+  },
+  {
+    "id": "h80",
+    "type": "hadith",
+    "ar": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ",
+    "en": "The one who cares for the widow and the poor is like a mujahid.",
+    "fr": "Celui qui aide la veuve et le pauvre est comme le combattant dans le sentier d’Allah.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-24"
+  },
+  {
+    "id": "h81",
+    "type": "hadith",
+    "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ",
+    "en": "The strong one is not the one who overcomes others by force.",
+    "fr": "Le fort n’est pas celui qui terrasse les autres.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-25"
+  },
+  {
+    "id": "h82",
+    "type": "hadith",
+    "ar": "مَنْ حُرِمَ الرِّفْقَ حُرِمَ الْخَيْرَ",
+    "en": "Whoever is deprived of gentleness is deprived of good.",
+    "fr": "Celui qui est privé de douceur est privé de bien.",
+    "ref": "Muslim",
+    "topic": "hadith-26"
+  },
+  {
+    "id": "h83",
+    "type": "hadith",
+    "ar": "اتَّبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا",
+    "en": "Follow a bad deed with a good one and it will erase it.",
+    "fr": "Fais suivre la mauvaise action d’une bonne qui l’effacera.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-27"
+  },
+  {
+    "id": "h84",
+    "type": "hadith",
+    "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "en": "A Muslim is the one from whose tongue and hand other Muslims are safe.",
+    "fr": "Le musulman est celui dont les musulmans sont à l’abri de la langue et de la main.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-28"
+  },
+  {
+    "id": "h85",
+    "type": "hadith",
+    "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+    "en": "Actions are judged by intentions.",
+    "fr": "Les actions ne valent que par les intentions.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-1"
+  },
+  {
+    "id": "h86",
+    "type": "hadith",
+    "ar": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+    "en": "Allah is beautiful and He loves beauty.",
+    "fr": "Allah est Beau et Il aime la beauté.",
+    "ref": "Muslim",
+    "topic": "hadith-2"
+  },
+  {
+    "id": "h87",
+    "type": "hadith",
+    "ar": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "en": "A good word is charity.",
+    "fr": "Une bonne parole est une aumône.",
+    "ref": "Bukhari",
+    "topic": "hadith-3"
+  },
+  {
+    "id": "h88",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "en": "The best of you are those who learn the Quran and teach it.",
+    "fr": "Le meilleur d’entre vous est celui qui apprend le Coran et l’enseigne.",
+    "ref": "Bukhari",
+    "topic": "hadith-4"
+  },
+  {
+    "id": "h89",
+    "type": "hadith",
+    "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+    "en": "Smiling at your brother is charity.",
+    "fr": "Ton sourire à ton frère est une aumône.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-5"
+  },
+  {
+    "id": "h90",
+    "type": "hadith",
+    "ar": "الدِّينُ النَّصِيحَةُ",
+    "en": "Religion is sincere advice.",
+    "fr": "La religion, c’est le bon conseil.",
+    "ref": "Muslim",
+    "topic": "hadith-6"
+  },
+  {
+    "id": "h91",
+    "type": "hadith",
+    "ar": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ",
+    "en": "The best people are those most beneficial to people.",
+    "fr": "Le meilleur des gens est le plus utile aux autres.",
+    "ref": "al-Mu‘jam al-Awsat",
+    "topic": "hadith-7"
+  },
+  {
+    "id": "h92",
+    "type": "hadith",
+    "ar": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+    "en": "Make things easy and do not make them difficult.",
+    "fr": "Facilitez et ne compliquez pas.",
+    "ref": "Bukhari",
+    "topic": "hadith-8"
+  },
+  {
+    "id": "h93",
+    "type": "hadith",
+    "ar": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ",
+    "en": "Be mindful of Allah wherever you are.",
+    "fr": "Crains Allah où que tu sois.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-9"
+  },
+  {
+    "id": "h94",
+    "type": "hadith",
+    "ar": "لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ",
+    "en": "He who does not thank people does not thank Allah.",
+    "fr": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-10"
+  },
+  {
+    "id": "h95",
+    "type": "hadith",
+    "ar": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
+    "en": "The merciful are shown mercy by the Most Merciful.",
+    "fr": "Les miséricordieux reçoivent la miséricorde du Tout Miséricordieux.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-11"
+  },
+  {
+    "id": "h96",
+    "type": "hadith",
+    "ar": "لَا تَغْضَبْ",
+    "en": "Do not become angry.",
+    "fr": "Ne te mets pas en colère.",
+    "ref": "Bukhari",
+    "topic": "hadith-12"
+  },
+  {
+    "id": "h97",
+    "type": "hadith",
+    "ar": "مَنْ صَمَتَ نَجَا",
+    "en": "Whoever remains silent is saved.",
+    "fr": "Celui qui garde le silence est sauvé.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-13"
+  },
+  {
+    "id": "h98",
+    "type": "hadith",
+    "ar": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+    "en": "Purity is half of faith.",
+    "fr": "La pureté est la moitié de la foi.",
+    "ref": "Muslim",
+    "topic": "hadith-14"
+  },
+  {
+    "id": "h99",
+    "type": "hadith",
+    "ar": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "en": "Supplication is worship.",
+    "fr": "L’invocation est l’adoration.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-15"
+  },
+  {
+    "id": "h100",
+    "type": "hadith",
+    "ar": "الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ",
+    "en": "A believer to another believer is like a building.",
+    "fr": "Le croyant pour le croyant est comme un édifice.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-16"
+  },
+  {
+    "id": "h101",
+    "type": "hadith",
+    "ar": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+    "en": "The best of you are the best to their families.",
+    "fr": "Le meilleur d’entre vous est le meilleur envers sa famille.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-17"
+  },
+  {
+    "id": "h102",
+    "type": "hadith",
+    "ar": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+    "en": "Whoever does not show mercy will not be shown mercy.",
+    "fr": "Celui qui ne fait pas miséricorde ne recevra pas miséricorde.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-18"
+  },
+  {
+    "id": "h103",
+    "type": "hadith",
+    "ar": "إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ",
+    "en": "When Allah loves a servant, He calls Jibril.",
+    "fr": "Quand Allah aime un serviteur, Il appelle Jibril.",
+    "ref": "Bukhari",
+    "topic": "hadith-19"
+  },
+  {
+    "id": "h104",
+    "type": "hadith",
+    "ar": "أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ",
+    "en": "The best remembrance is: There is no god but Allah.",
+    "fr": "Le meilleur rappel est : Il n’y a de divinité qu’Allah.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-20"
+  },
+  {
+    "id": "h105",
+    "type": "hadith",
+    "ar": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا",
+    "en": "The deeds most loved by Allah are those done consistently.",
+    "fr": "Les œuvres les plus aimées d’Allah sont celles qui sont constantes.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-21"
+  },
+  {
+    "id": "h106",
+    "type": "hadith",
+    "ar": "إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلَاقًا",
+    "en": "The best of you are those with the best character.",
+    "fr": "Les meilleurs d’entre vous sont ceux qui ont le meilleur comportement.",
+    "ref": "Bukhari",
+    "topic": "hadith-22"
+  },
+  {
+    "id": "h107",
+    "type": "hadith",
+    "ar": "مَنْ لَطَفَ بِعِبَادِ اللَّهِ لَطَفَ اللَّهُ بِهِ",
+    "en": "Whoever is gentle with the servants of Allah, Allah is gentle with him.",
+    "fr": "Celui qui est doux avec les serviteurs d’Allah, Allah est doux avec lui.",
+    "ref": "Meaning from sound narrations",
+    "topic": "hadith-23"
+  },
+  {
+    "id": "h108",
+    "type": "hadith",
+    "ar": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ",
+    "en": "The one who cares for the widow and the poor is like a mujahid.",
+    "fr": "Celui qui aide la veuve et le pauvre est comme le combattant dans le sentier d’Allah.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-24"
+  },
+  {
+    "id": "h109",
+    "type": "hadith",
+    "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ",
+    "en": "The strong one is not the one who overcomes others by force.",
+    "fr": "Le fort n’est pas celui qui terrasse les autres.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-25"
+  },
+  {
+    "id": "h110",
+    "type": "hadith",
+    "ar": "مَنْ حُرِمَ الرِّفْقَ حُرِمَ الْخَيْرَ",
+    "en": "Whoever is deprived of gentleness is deprived of good.",
+    "fr": "Celui qui est privé de douceur est privé de bien.",
+    "ref": "Muslim",
+    "topic": "hadith-26"
+  },
+  {
+    "id": "h111",
+    "type": "hadith",
+    "ar": "اتَّبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا",
+    "en": "Follow a bad deed with a good one and it will erase it.",
+    "fr": "Fais suivre la mauvaise action d’une bonne qui l’effacera.",
+    "ref": "Tirmidhi",
+    "topic": "hadith-27"
+  },
+  {
+    "id": "h112",
+    "type": "hadith",
+    "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "en": "A Muslim is the one from whose tongue and hand other Muslims are safe.",
+    "fr": "Le musulman est celui dont les musulmans sont à l’abri de la langue et de la main.",
+    "ref": "Bukhari & Muslim",
+    "topic": "hadith-28"
+  }
+]
